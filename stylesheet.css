@@ -1,0 +1,161 @@
+*{
+    font-family: 'poppins', 'sans-serif';
+    margin:0 0 0 0;
+}
+
+/* NAVMENU STYLES */
+
+.navmenu ul li {
+    list-style-type:none;
+    display: inline-block;
+    padding: 1% 2% 1% 2%;
+    
+}
+
+.navmenu ul li a {
+    text-decoration: none;
+    color:#020202;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.navmenu {
+    text-align:right;
+    padding: 0% 10% 0% 10%
+}
+
+/* sOne */
+
+
+.sOne{
+    background-image: url(img/bg.jpg);
+    color:white;
+    height: 90vh;
+    background-size: cover;
+    padding: 0% 10% 0% 10%;
+} 
+
+.sOneTexts {
+    padding: 0% 40% 0% 0%;
+    display:table-cell;
+    vertical-align:middle;
+    height: 90vh;
+}
+
+
+/*Section Two*/
+
+.sTwo {
+    padding: 10% 10% 0% 10%;
+    height: 80vh;
+    color: #020202;  
+}
+
+hr {
+    margin: 5% 0% 0% 0%;
+    width: 5%;
+    height: 3px;
+    background-color: black;
+    border-style:none;
+}
+
+/*sTwo Cards*/
+.sTwo .card {
+    display: flex;
+    margin: 5% 0% 0% 0%;
+}
+
+.sTwo .card .card1 {
+    margin: 0% 5% 0% 0%;
+}
+
+.sTwo .card .card2 {
+    margin: 0% 5% 0% 0%;
+}
+
+.sTwo .card .card3 {
+    margin: 0% 5% 0% 0%;
+}
+
+h4 {
+    margin: 0% 0% 5% 0%;
+}
+
+button {
+    margin: 10% 0% 0% 0%;
+    padding: 5%;
+    border: none;
+    background-color: #020202;
+    color: white;
+}
+
+
+/*Section Three*/
+
+
+.sthree {
+    background-image: url(img/bg2.jpg);
+    color: white;
+    padding: 10%;
+    height: 50vh;
+
+}
+
+.hr2 {
+    margin: 5% 0% 8% 0%;
+    width: 5%;
+    height: 3px;
+    background-color: white;
+    border-style:none;
+}
+
+
+/*Section Four*/
+
+.sfour .text{
+    background-image: linear-gradient(to right, #006ecf, #01c3f8);
+    padding: 3% 10% 3% 10%;
+    text-align:center;
+}
+
+.sfour .text .element {
+    display: inline-block;
+}
+
+#button2 {
+    margin: 0% 0% 0% 3%;
+    padding: 2%;
+    border: none;
+    background-color: white;
+    color: #020202;
+    font-weight: bold;
+}
+
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align:center;
+
+}
+
+.containerfooter {
+    padding: 5% 10% 5% 10%;
+}
+
+.img {
+    margin: 1%;
+}
+
+.socialmedia ul li{
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0% 1% 0% 1%;
+}
+
+.socialmedia ul li a {
+    text-decoration: none;
+    color: white;
+}
